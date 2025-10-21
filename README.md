@@ -10,7 +10,7 @@ I focus on **clean architecture**, **scalable design**, and the craft of turning
 When I’m not coding WMS (Warehouse Management Systems) apps for work, I’m tinkering on indie games with **GAIA Foundry** - my personal company.
 
 
-# Professional Tech stack
+## Professional Tech stack
 
 **Languages and Frameworks**
 
@@ -31,7 +31,7 @@ When I’m not coding WMS (Warehouse Management Systems) apps for work, I’m ti
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
-# Academic learning
+## Academic learning
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
@@ -53,10 +53,10 @@ When I’m not coding WMS (Warehouse Management Systems) apps for work, I’m ti
 
 
 
-# Gamedev Tech stack
+## Gamedev Tech stack
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
-[[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](http://www.unity.com)
+[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](http://www.unity.com)
 [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](http://www.itch.io)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](http://www.steam.com)
@@ -64,17 +64,7 @@ When I’m not coding WMS (Warehouse Management Systems) apps for work, I’m ti
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 
 
-
-
-
-
-### 📊 Stats & Activity
-
-![Eloquent Raccoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=EloquentRaccoon&show_icons=true&theme=transparent&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EloquentRaccoon&layout=compact&theme=transparent)
-
-
-### **Socials**
+# **Socials**
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  
